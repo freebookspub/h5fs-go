@@ -1,0 +1,9 @@
+.DS_Store
+.idea/
+.vscode/
+newsServ
+vendor/
+tmp
+log/
+bin/conf/server.yaml
+bin/h5fsServer
